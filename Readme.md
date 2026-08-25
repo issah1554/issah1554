@@ -1,6 +1,6 @@
-# Stephen IssaH
+## Stephen IssaH
 
-Computer Engineer & Software Developer from Tanzania.
+Computer Engineer & Software Developer from Tanzania, Dar es Salaam Institute of Technology (DIT)
 
 
 ### Tech
