@@ -8,10 +8,12 @@ I build software across web, backend, mobile, and infrastructure, with an intere
 
 `Python` `TypeScript` `JavaScript` `PHP` `Dart` `SQL`
 
-`React` `Next.js` `Django` `Flutter`
+`React` `Next.js` `Django` `Flutter` `FastAPI`, `TailwindCSS`
 
-`PostgreSQL` `MySQL` `Linux` `Git`
+`PostgreSQL` `MySQL` `Firebase` `Supabase` `Redis`
+
+`Linux` `Git` `Vercel` `Claudinary` `PostgreSQL`
 
 ### Interests
 
-Software Engineering · System Design · AI · Networking · Embedded Systems
+Software Engineering · System Design · AI  · Cyber Security
