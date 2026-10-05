@@ -6,4 +6,8 @@
 
 ![Tools](https://img.shields.io/badge/Tools-242424?style=flat-square&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-E5E5E5?style=flat-square&logo=linux&logoColor=FCC624) ![Git](https://img.shields.io/badge/Git-E5E5E5?style=flat-square&logo=git&logoColor=F05032) ![Vercel](https://img.shields.io/badge/Vercel-E5E5E5?style=flat-square&logo=vercel&logoColor=000000) ![Cloudinary](https://img.shields.io/badge/Cloudinary-E5E5E5?style=flat-square&logo=cloudinary&logoColor=3448C5)
 
-![Interests](https://img.shields.io/badge/Interests-242424?style=flat-square&logoColor=white) ![Software Engineering](https://img.shields.io/badge/Software_Engineering-E5E5E5?style=flat-square&logo=github&logoColor=181717) ![System Design](https://img.shields.io/badge/System_Design-E5E5E5?style=flat-square&logo=diagrams.net&logoColor=F08705) ![AI&ML](https://img.shields.io/badge/AI-E5E5E5?style=flat-square&logo=openai&logoColor=000000) ![Cyber Security](https://img.shields.io/badge/Cyber_Security-E5E5E5?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+![Interests](https://img.shields.io/badge/Interests-242424?style=flat-square&logoColor=white) 
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-E5E5E5?style=flat-square&logo=github&logoColor=181717) 
+![System Design](https://img.shields.io/badge/System_Design-E5E5E5?style=flat-square&logo=diagrams.net&logoColor=F08705) 
+![AI%26ML](https://img.shields.io/badge/AI_%26_ML-E5E5E5?style=flat-square&logo=pytorch&logoColor=EE4C2C) 
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-E5E5E5?style=flat-square&logo=hackthebox&logoColor=9FEF00)
